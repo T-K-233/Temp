@@ -1,0 +1,111 @@
+﻿App Version     = PaintTool SAI Ver.2 (64bit) Preview.2020.01.19
+OS Name         = Windows 10 Pro
+OS Edition      = Professional
+OS Service Pack = 
+OS Build        = 19043
+OS Release ID   = 2009
+OS Version      = 0xa00
+WinTab Version  = 0x0
+WOW64           = 0
+WinNT           = 1
+Admin           = 0
+UAC             = 2
+
+IniTotalVirtual = 134217727MB
+IniAvailVirtual = 134213529MB
+TotalPhys       = 32697MB
+AvailPhys       = 23484MB
+TotalPageFile   = 37561MB
+AvailPageFile   = 25475MB
+TotalVirtual    = 134217727MB
+AvailVirtual    = 134213284MB
+ModTotalPhys    = 24522MB
+
+CPU No.00       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.01       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.02       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.03       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.04       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.05       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.06       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.07       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.08       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.09       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.10       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.11       = AMD Ryzen 5 2600 Six-Core Processor            
+
+Threads
+ Main           = 0x00003D20
+ AppCmd         = 0x00000F20
+ HisAsyncFIO    = 0x000041C8
+ WinTabCtrl     = 0x00000000
+
+ SMP Main
+  #00           = 0x00002F10
+  #01           = 0x000047C8
+  #02           = 0x00000C4C
+  #03           = 0x00001E24
+  #04           = 0x00001D10
+  #05           = 0x000046B4
+
+ SMP AppCmd
+  #00           = 0x0000068C
+  #01           = 0x00004E2C
+  #02           = 0x00002B90
+  #03           = 0x00000C40
+  #04           = 0x00001068
+  #05           = 0x00003190
+
+HisDrive Total  = 487758MB
+HisDrive Free   = 378295MB
+
+
+-2022-03-27 08:06:55.835
+#0=0000000140000000+00573000,D:\Documents\SYSTEMAX Software Development\SAI\sai2.exe
+#1=00007FFD25790000+001F5000,C:\Windows\SYSTEM32\ntdll.dll
+#2=00007FFD239F0000+000BE000,C:\Windows\System32\KERNEL32.DLL
+#3=00007FFD23170000+002C8000,C:\Windows\System32\KERNELBASE.dll
+#4=00007FFD23F80000+001A0000,C:\Windows\System32\USER32.dll
+#5=00007FFD23570000+00022000,C:\Windows\System32\win32u.dll
+#6=00007FFD23DC0000+0002B000,C:\Windows\System32\GDI32.dll
+#7=00007FFD23060000+0010B000,C:\Windows\System32\gdi32full.dll
+#8=00007FFD23750000+0009D000,C:\Windows\System32\msvcp_win.dll
+#9=00007FFD23470000+00100000,C:\Windows\System32\ucrtbase.dll
+#10=00007FFD23910000+000DB000,C:\Windows\System32\COMDLG32.dll
+#11=00007FFD24150000+0009E000,C:\Windows\System32\msvcrt.dll
+#12=00007FFD25370000+00354000,C:\Windows\System32\combase.dll
+#13=00007FFD25210000+00125000,C:\Windows\System32\RPCRT4.dll
+#14=00007FFD23D10000+000AD000,C:\Windows\System32\shcore.dll
+#15=00007FFD241F0000+00055000,C:\Windows\System32\SHLWAPI.dll
+#16=00007FFD24900000+00744000,C:\Windows\System32\SHELL32.dll
+#17=00007FFD11760000+0029A000,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\COMCTL32.dll
+#18=00007FFD24250000+0012A000,C:\Windows\System32\ole32.dll
+#19=00007FFD25340000+00030000,C:\Windows\System32\IMM32.dll
+#20=00007FFD23EC0000+000AE000,C:\Windows\System32\ADVAPI32.dll
+#21=00007FFD24860000+0009C000,C:\Windows\System32\sechost.dll
+#22=00007FFD23DF0000+000CD000,C:\Windows\System32\OLEAUT32.dll
+#23=00007FFD20FC0000+00794000,C:\Windows\SYSTEM32\windows.storage.dll
+#24=00007FFD228A0000+0002C000,C:\Windows\SYSTEM32\Wldp.dll
+#25=00007FFD22DF0000+0001F000,C:\Windows\SYSTEM32\profapi.dll
+#26=00007FFD20DC0000+00012000,C:\Windows\SYSTEM32\kernel.appcore.dll
+#27=00007FFD23650000+00082000,C:\Windows\System32\bcryptPrimitives.dll
+#28=00007FFD208C0000+0009E000,C:\Windows\system32\uxtheme.dll
+#29=00007FFD20AD0000+0002F000,C:\Windows\SYSTEM32\dwmapi.dll
+#30=00007FFD12A20000+000AC000,C:\Windows\SYSTEM32\TextShaping.dll
+#31=00007FFD23C00000+000A9000,C:\Windows\System32\clbcatq.dll
+#32=00007FFD04450000+00220000,C:\Windows\system32\explorerframe.dll
+#33=00007FFD1E8F0000+000F6000,C:\Windows\SYSTEM32\PROPSYS.dll
+#34=00007FFD1C4E0000+001B4000,C:\Windows\SYSTEM32\WindowsCodecs.dll
+#35=00007FFD23440000+00027000,C:\Windows\System32\bcrypt.dll
+#36=00007FFD22EB0000+0004E000,C:\Windows\System32\CFGMGR32.dll
+#37=00007FFD0F0E0000+0002A000,C:\Windows\SYSTEM32\wintab32.dll
+#38=00007FFD237F0000+00116000,C:\Windows\System32\MSCTF.dll
+#39=00007FFD151E0000+000F9000,C:\Windows\SYSTEM32\textinputframework.dll
+#40=00007FFD203E0000+000F2000,C:\Windows\SYSTEM32\CoreMessaging.dll
+#41=00007FFD1FD00000+0035E000,C:\Windows\SYSTEM32\CoreUIComponents.dll
+#42=00007FFD247F0000+0006B000,C:\Windows\System32\WS2_32.dll
+#43=00007FFD21B90000+00033000,C:\Windows\SYSTEM32\ntmarta.dll
+#44=00007FFD1ED20000+00154000,C:\Windows\SYSTEM32\wintypes.dll
+!AppError: Cannot open any pen tablet device.
+@thid=3D20,cnt=6:#0+1C4DFC,#0+1C62FA,#0+1C6354,#0+A547,#0+A794,#0+1CC9E7
+.

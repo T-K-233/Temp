@@ -1,0 +1,121 @@
+﻿App Version     = PaintTool SAI Ver.2 (64bit) Preview.2020.01.19
+OS Name         = Windows 10 Pro
+OS Edition      = Professional
+OS Service Pack = 
+OS Build        = 19043
+OS Release ID   = 2009
+OS Version      = 0xa00
+WinTab Version  = 0x101
+WOW64           = 0
+WinNT           = 1
+Admin           = 0
+UAC             = 2
+
+IniTotalVirtual = 134217727MB
+IniAvailVirtual = 134213529MB
+TotalPhys       = 32697MB
+AvailPhys       = 24512MB
+TotalPageFile   = 37561MB
+AvailPageFile   = 26703MB
+TotalVirtual    = 134217727MB
+AvailVirtual    = 134213150MB
+ModTotalPhys    = 24522MB
+
+CPU No.00       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.01       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.02       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.03       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.04       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.05       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.06       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.07       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.08       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.09       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.10       = AMD Ryzen 5 2600 Six-Core Processor            
+CPU No.11       = AMD Ryzen 5 2600 Six-Core Processor            
+
+Threads
+ Main           = 0x000005F4
+ AppCmd         = 0x00003BE8
+ HisAsyncFIO    = 0x00002278
+ WinTabCtrl     = 0x00000000
+
+ SMP Main
+  #00           = 0x000023CC
+  #01           = 0x00001EE8
+  #02           = 0x00000ABC
+  #03           = 0x00003844
+  #04           = 0x0000291C
+  #05           = 0x00003D98
+
+ SMP AppCmd
+  #00           = 0x000037E0
+  #01           = 0x00000A64
+  #02           = 0x00003554
+  #03           = 0x00003874
+  #04           = 0x00003F7C
+  #05           = 0x00000F7C
+
+HisDrive Total  = 487758MB
+HisDrive Free   = 410344MB
+
+
+-2022-02-03 10:50:37.116
+#0=0000000140000000+00573000,D:\Documents\SYSTEMAX Software Development\SAI\sai2.exe
+#1=00007FFD13AF0000+001F5000,C:\Windows\SYSTEM32\ntdll.dll
+#2=00007FFD13590000+000BE000,C:\Windows\System32\KERNEL32.DLL
+#3=00007FFD11260000+002C8000,C:\Windows\System32\KERNELBASE.dll
+#4=00007FFD13650000+001A1000,C:\Windows\System32\USER32.dll
+#5=00007FFD11690000+00022000,C:\Windows\System32\win32u.dll
+#6=00007FFD124D0000+0002B000,C:\Windows\System32\GDI32.dll
+#7=00007FFD118D0000+0010D000,C:\Windows\System32\gdi32full.dll
+#8=00007FFD11830000+0009D000,C:\Windows\System32\msvcp_win.dll
+#9=00007FFD119E0000+00100000,C:\Windows\System32\ucrtbase.dll
+#10=00007FFD12630000+000DA000,C:\Windows\System32\COMDLG32.dll
+#11=00007FFD12430000+0009E000,C:\Windows\System32\msvcrt.dll
+#12=00007FFD12710000+00355000,C:\Windows\System32\combase.dll
+#13=00007FFD12500000+00125000,C:\Windows\System32\RPCRT4.dll
+#14=00007FFD11B30000+000AD000,C:\Windows\System32\shcore.dll
+#15=00007FFD12A70000+00055000,C:\Windows\System32\SHLWAPI.dll
+#16=00007FFD12B80000+00744000,C:\Windows\System32\SHELL32.dll
+#17=00007FFCFB320000+0029A000,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\COMCTL32.dll
+#18=00007FFD13800000+0012A000,C:\Windows\System32\ole32.dll
+#19=00007FFD13350000+00030000,C:\Windows\System32\IMM32.dll
+#20=00007FFD12AD0000+000AE000,C:\Windows\System32\ADVAPI32.dll
+#21=00007FFD11F10000+0009C000,C:\Windows\System32\sechost.dll
+#22=00007FFD11D90000+000CD000,C:\Windows\System32\OLEAUT32.dll
+#23=00007FFD0F2F0000+00795000,C:\Windows\SYSTEM32\windows.storage.dll
+#24=00007FFD10BE0000+0002E000,C:\Windows\SYSTEM32\Wldp.dll
+#25=00007FFD11140000+0001F000,C:\Windows\SYSTEM32\profapi.dll
+#26=00007FFD0F0F0000+00012000,C:\Windows\SYSTEM32\kernel.appcore.dll
+#27=00007FFD116F0000+00082000,C:\Windows\System32\bcryptPrimitives.dll
+#28=00007FFD0EC10000+0009E000,C:\Windows\system32\uxtheme.dll
+#29=00007FFD0EE00000+0002F000,C:\Windows\SYSTEM32\dwmapi.dll
+#30=00007FFD02DB0000+000AC000,C:\Windows\SYSTEM32\TextShaping.dll
+#31=00007FFD11E60000+000A9000,C:\Windows\System32\clbcatq.dll
+#32=00007FFCF59A0000+00220000,C:\Windows\system32\explorerframe.dll
+#33=00007FFD0CC40000+000F6000,C:\Windows\SYSTEM32\PROPSYS.dll
+#34=00007FFD08390000+001B4000,C:\Windows\SYSTEM32\WindowsCodecs.dll
+#35=00007FFD116C0000+00027000,C:\Windows\System32\bcrypt.dll
+#36=00007FFD11AE0000+0004E000,C:\Windows\System32\CFGMGR32.dll
+#37=00007FFCFED00000+0002A000,C:\Windows\SYSTEM32\wintab32.dll
+#38=00007FFD13470000+00115000,C:\Windows\System32\MSCTF.dll
+#39=00007FFD088C0000+000F9000,C:\Windows\SYSTEM32\textinputframework.dll
+#40=00007FFD0E490000+0035E000,C:\Windows\SYSTEM32\CoreUIComponents.dll
+#41=00007FFD0E7F0000+000F2000,C:\Windows\SYSTEM32\CoreMessaging.dll
+#42=00007FFD13390000+0006B000,C:\Windows\System32\WS2_32.dll
+#43=00007FFD0FED0000+00033000,C:\Windows\SYSTEM32\ntmarta.dll
+#44=00007FFD0DDC0000+00154000,C:\Windows\SYSTEM32\wintypes.dll
+#45=00007FFCF6150000+00066000,C:\Windows\system32\Oleacc.dll
+#46=00007FFCFC880000+0000C000,C:\Windows\SYSTEM32\Secur32.dll
+#47=00007FFD110C0000+00031000,C:\Windows\SYSTEM32\SSPICLI.DLL
+#48=00007FFD02350000+00019000,C:\Windows\SYSTEM32\samcli.dll
+#49=00007FFD09440000+00027000,C:\Windows\SYSTEM32\SAMLIB.dll
+#50=00007FFD106E0000+0000C000,C:\Windows\SYSTEM32\netutils.dll
+#51=00007FFCF4E20000+0007D000,C:\Windows\SYSTEM32\ntshrui.dll
+#52=00007FFD09580000+00028000,C:\Windows\SYSTEM32\srvcli.dll
+#53=00007FFCF4E00000+00012000,C:\Windows\SYSTEM32\cscapi.dll
+#54=00007FFD08CC0000+0006A000,C:\Windows\system32\Ninput.dll
+!ShfError(0x80070057): The parameter is incorrect.
+@thid=5F4,cnt=15:#0+1DB093,#0+1DC97F,#0+145995,#0+150357,#0+1509BB,#0+5095,#0+52BE,#0+6586,#0+916B,#0+1B73A2,#0+1BF19A,#0+1C02B9,#4+E7E8,#4+DDAB,#4+D61A,#0+2ADD,#0+304B,#0+31BC,#0+A60C,#0+A794,#0+1CC9E7
+.
